@@ -6,7 +6,7 @@ Basic todo list application.
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | Deploy status                                                              | /                                                                              |
 | Deploy preview                                                             | /                                                                              |
-| Project typology                                                           | 📒  Step by step from tutorial [Deliveroo clone with Next.js, GraphQL, Strapi and Stripe - Strapi https://strapi.io/blog/strapi-next-setup) |
+| Project typology                                                           | 📒  Step by step from tutorial [Deliveroo clone with Next.js, GraphQL, Strapi and Stripe - Strapi](https://strapi.io/blog/strapi-next-setup) |
 
 <!--
 ![project preview](docs/project-preview.mp4)
