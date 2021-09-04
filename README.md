@@ -1,3 +1,6 @@
+⚠️ Client does not work properly. Server does.
+
+----
 # 📒 Strapi Deliveroo tutorial
 
 Basic todo list application.
@@ -8,9 +11,7 @@ Basic todo list application.
 | Deploy preview                                                             | /                                                                              |
 | Project typology                                                           | 📒  Step by step from tutorial [Deliveroo clone with Next.js, GraphQL, Strapi and Stripe - Strapi](https://strapi.io/blog/strapi-next-setup) |
 
-<!--
-![project preview](docs/project-preview.mp4)
--->
+![project preview](docs/project-preview.png)
 
 ## 🔥 Tech stack
 
@@ -22,6 +23,8 @@ Basic todo list application.
 | CMS (headless) | Strapi     |
 
 ## 🌊 Run development mode
+
+To run the server, enter into the `server` folder:
 
 ```shell
 # install dependencies
