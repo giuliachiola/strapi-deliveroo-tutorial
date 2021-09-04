@@ -2,7 +2,7 @@
   "name": "deliveroo",
   "version": "1.0.0",
   "description": "Nuxt.js project",
-  "author": "Giulia Chiola <giulia.chiola@modo.md>",
+  "author": "Giulia Chiola",
   "private": true,
   "scripts": {
     "dev": "nuxt",
